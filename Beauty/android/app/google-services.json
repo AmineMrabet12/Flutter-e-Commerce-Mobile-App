@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "654933529278",
+    "project_id": "beauty-6e6b7",
+    "storage_bucket": "beauty-6e6b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654933529278:android:179ee5f7c34d7a51d0c4ef",
+        "android_client_info": {
+          "package_name": "com.example.beauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654933529278-v2fhsii1hp95684hnd0ib4b3f8kpl7uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdM8guV5c5f7Aoy-Vovl4-u4PeSi7MRvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654933529278-v2fhsii1hp95684hnd0ib4b3f8kpl7uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654933529278:android:9f4cac06c1555935d0c4ef",
+        "android_client_info": {
+          "package_name": "com.example.e_beauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654933529278-v2fhsii1hp95684hnd0ib4b3f8kpl7uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdM8guV5c5f7Aoy-Vovl4-u4PeSi7MRvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654933529278-v2fhsii1hp95684hnd0ib4b3f8kpl7uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
